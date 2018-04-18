@@ -228,5 +228,8 @@ In chronological order:
   * Fixed not setting connect timeout on HTTP connections.
   * Fixed incorrect timeout on socket when using a new HTTPS connection.
 
+* Aleksei Alekseev <alekseev.yeskela@gmail.com>
+  * using auth info for socks proxy
+
 * [Your name or handle] <[email or website]>
   * [Brief summary of your changes]
